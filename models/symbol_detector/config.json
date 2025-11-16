@@ -1,0 +1,51 @@
+{
+  "model_name": "symbol_detector_pro",
+  "detection_method": "hybrid_rule_ml",
+  "symbol_categories": {
+    "natural_elements": [
+      "ocean",
+      "forest",
+      "mountain",
+      "river",
+      "sky",
+      "stars"
+    ],
+    "urban_elements": [
+      "city",
+      "building",
+      "street",
+      "house",
+      "room",
+      "school"
+    ],
+    "animals_creatures": [
+      "dolphin",
+      "bird",
+      "cat",
+      "dog",
+      "lion",
+      "dragon"
+    ],
+    "people_relationships": [
+      "friend",
+      "family",
+      "stranger",
+      "child",
+      "teacher"
+    ],
+    "transportation": [
+      "car",
+      "plane",
+      "train",
+      "bike",
+      "ship"
+    ],
+    "mythical_archetypes": [
+      "hero",
+      "shadow",
+      "wise_old_man",
+      "trickster",
+      "mother"
+    ]
+  }
+}

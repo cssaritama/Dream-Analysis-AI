@@ -1,0 +1,79 @@
+{
+  "model_name": "lda_topic_model_pro",
+  "model_type": "latent_dirichlet_allocation",
+  "num_topics": 8,
+  "topics": [
+    {
+      "name": "adventure_freedom",
+      "keywords": [
+        "flying",
+        "exploring",
+        "freedom",
+        "travel"
+      ]
+    },
+    {
+      "name": "fear_anxiety",
+      "keywords": [
+        "chased",
+        "lost",
+        "trapped",
+        "dark"
+      ]
+    },
+    {
+      "name": "social_connections",
+      "keywords": [
+        "friends",
+        "family",
+        "talking",
+        "party"
+      ]
+    },
+    {
+      "name": "achievement_goals",
+      "keywords": [
+        "success",
+        "winning",
+        "achieving",
+        "studying"
+      ]
+    },
+    {
+      "name": "nature_peace",
+      "keywords": [
+        "ocean",
+        "forest",
+        "animals",
+        "peaceful"
+      ]
+    },
+    {
+      "name": "urban_life",
+      "keywords": [
+        "city",
+        "building",
+        "streets",
+        "crowd"
+      ]
+    },
+    {
+      "name": "mystery_discovery",
+      "keywords": [
+        "secret",
+        "hidden",
+        "discover",
+        "ancient"
+      ]
+    },
+    {
+      "name": "creative_expression",
+      "keywords": [
+        "art",
+        "music",
+        "dancing",
+        "creating"
+      ]
+    }
+  ]
+}
