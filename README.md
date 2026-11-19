@@ -1,5 +1,7 @@
 # 🌙 Dream Analysis AI
 
+> **Status:** Personal demo project. Last updated November 2025. Not actively maintained.
+
 ---
 
 ## Description
